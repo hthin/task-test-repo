@@ -5,6 +5,7 @@ pipeline {
            steps {
                echo "Hallo die Welt"
                echo "Hello wonderful world"
+               echo "Hello die schöne Welt"
                    }
            }
        }
